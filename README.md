@@ -1,2 +1,2 @@
 # scarydandy
-scarydandy
+scarydandy.exe virus
